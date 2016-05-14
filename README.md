@@ -1,1 +1,1 @@
-辅助[Flume+Kafka收集分布式日志应用实践](http://spring.io/)的自定义flume的source和sink
+辅助[Flume+Kafka收集分布式日志应用实践](http://neoremind.com/2016/05/Flume+Kafka%E6%94%B6%E9%9B%86Docker%E5%AE%B9%E5%99%A8%E5%86%85%E5%88%86%E5%B8%83%E5%BC%8F%E6%97%A5%E5%BF%97%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5/)的自定义flume的source和sink
